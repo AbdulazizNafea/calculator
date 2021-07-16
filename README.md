@@ -1,6 +1,6 @@
 # calculator
 
-calculator app
+calculator app Flutter
 
 ## Getting Started
 
